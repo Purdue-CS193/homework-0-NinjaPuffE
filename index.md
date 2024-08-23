@@ -4,7 +4,11 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Elliott Miller's FIrst CS 193 Homework
+
+- Only 1 Lecture a Week
+- Teaches a lot of applicable skills
+- Teaches us vim
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
